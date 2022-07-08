@@ -85,7 +85,7 @@ Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tab
 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
 
-![image](https://user-images.githubusercontent.com/105695077/178007384-91a25b73-4e27-4f1c-b791-0239f426be36.png)
+![image](https://user-images.githubusercontent.com/105695077/178008315-cc10e15b-4806-4c3c-b47c-b87c87bec8fe.png)
 
 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
