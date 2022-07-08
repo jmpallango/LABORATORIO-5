@@ -8,7 +8,7 @@
 
 
 
-LABORATORIO: 4
+LABORATORIO: 5
 
 
 
@@ -26,7 +26,7 @@ MGS. DARWIN OMAR ALULEMA FLORES
 
 Sangolquí- Ecuador
 
-Viernes 1 de julio de 2022
+Viernes 8 de julio de 2022
 
 # OBJETIVOS:
 
