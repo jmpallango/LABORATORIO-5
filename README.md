@@ -105,6 +105,10 @@ Calcular errores de las mediciones y comentar los resultados.
 
 # CONCLUSIONES:
 
+EL teorema de thévenin trata de hallar un circuito equivalente con fuente de voltaje y para ello es necesario calcular el voltaje y la resistencia que se emplearan en otro circuito junto a la resistencia RL para crear un circuito, que al tomar la medidas de voltaje y corriente en RL sean las mismas que las del circuito original.
+
+Las medidas obtenidas analiticamente y en un simulador coinciden, por lo tanto el teorema de Thevenin si funciona para hallar un circuito equivalente al determinar los valores de RTH y VTH.
+
 # BIBLIOGRAFÍA:
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
