@@ -52,7 +52,54 @@ Especificos:
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
+Una de las maneras de simplificar y facilitar el análisis de circuitos eléctricos y
+electrónicos es por medio del Teorema de Thévenin que establece que:
+
+Un circuito eléctrico puede representarse con un circuito dual o equivalente,
+representado por una sola fuente de voltaje en serie con una resistencia. El valor de la
+fuente de voltaje se conoce como el “voltaje de Thévenin” y la resistencia en serie como
+“resistencia de Thévenin”.
+
+El voltaje de Thévenin (VTH) es el voltaje en circuito abierto entre las terminales
+del circuito para el cual se requiere el equivalente de Thévenin.
+
+La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la terminal
+del circuito para el equivalente de Thévenin, con las fuentes de alimentación en cero.
+
+![image](https://user-images.githubusercontent.com/105695077/178006072-7c394702-9bcc-4418-ab49-d915cd735559.png)
+
 PROCEDIMIENTO:
+
+Arme el circuito que se muestra en la figura 5.1.
+
+![image](https://user-images.githubusercontent.com/105695077/178006262-d5cae4ea-7fa9-4358-a38a-761ad077cb8d.png)
+
+![image](https://user-images.githubusercontent.com/105695077/178007026-e4a603d4-2a17-429d-bb23-08d7f117a9b6.png)
+
+Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/105695077/178007524-75d03702-89fc-4e66-a123-dadba82ceba7.png)
+
+![image](https://user-images.githubusercontent.com/105695077/178008049-bf37c20a-e030-4521-86b9-1a9dbe236e5e.png)
+
+Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
+medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/105695077/178007384-91a25b73-4e27-4f1c-b791-0239f426be36.png)
+
+Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/105695077/178007690-f24cc521-e4fa-4bb8-b9a1-17dfb6e730d5.png)
+
+Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
+corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/105695077/178007809-3c709fec-c4a4-4f8c-a751-9d2cff0b96dc.png)
+
+![image](https://user-images.githubusercontent.com/105695077/178007837-8a26e2ce-03d4-4896-82cd-682d721cb746.png)
+
+Calcular errores de las mediciones y comentar los resultados.
 
 # VIDEO
 
