@@ -44,6 +44,12 @@ Especificos:
 
 # MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/105695077/178005205-60b7e7c8-e00b-463a-af06-553787767e72.png)
+![image](https://user-images.githubusercontent.com/105695077/178005255-ccc8151b-9ca9-4363-918f-65280153464c.png)
+![image](https://user-images.githubusercontent.com/105695077/178005302-a6afd3a3-cf75-4d06-8d49-8fc312d3e943.png)
+![image](https://user-images.githubusercontent.com/105695077/178005356-18657ae0-4852-4eaf-a7fe-a6c2624d68a4.png)
+![image](https://user-images.githubusercontent.com/105695077/178005422-4448dea6-2deb-4ad2-88c2-877c42a14b6f.png)
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 PROCEDIMIENTO:
