@@ -32,13 +32,15 @@ Viernes 8 de julio de 2022
 
 General:
 
-Analizar y comprobar el Teorema de Superposición con respecto a los voltajes y corrientes de un circuito, utilizando el simulador TinkerCad El cual ayudara a comprobar los datos teóricos obtenidos.
+Analizar forma teórica y experimental, el Teorema de Thévenin con respecto a los voltajes y corrientes mediante el desarrollo de un circuito eléctrico, ya que se utilizara Tinkerkad y se establecerá el porcentaje de error que tiene el método con respecto a los datos obtenidos mediante la simulación.
 
 Especificos:
 
--Identificar y comparar los diferentes datos obtenidos de manera teórica y del simulador TinkerCad del circuito mixto.
+-Analizar y explicar el Teorema de Thévenin con su debido desarrollo.
 
--Comprender el uso de la ley de Kirchhoff y como aplicarlo dentro de un circuito mixto que permitan la localización de falla o del margen de error.
+-Analizar de manera experimental el teorema de Thévenin tanto para la corriente como para los voltajes comprobado por un circuito calculado y uno medido.
+
+-Comprender el uso de las leyes de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
 
 # MARCO TEORICO:
 
