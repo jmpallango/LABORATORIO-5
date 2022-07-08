@@ -90,6 +90,8 @@ medido en la tabla 5.1.
 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/105695077/178035629-ec8fe803-3dc1-4d82-a846-6b6f244d2b85.png)
+
 ![image](https://user-images.githubusercontent.com/105695077/178007690-f24cc521-e4fa-4bb8-b9a1-17dfb6e730d5.png)
 
 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
