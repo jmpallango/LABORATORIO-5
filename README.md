@@ -99,6 +99,10 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![image](https://user-images.githubusercontent.com/105695077/178007837-8a26e2ce-03d4-4896-82cd-682d721cb746.png)
 
+![image](https://user-images.githubusercontent.com/105695077/178035029-c92cf8c0-519b-4f64-a9ba-230bbd9e33be.png)
+![image](https://user-images.githubusercontent.com/105695077/178035064-034fc4b5-5016-46db-b912-ee52c3ea2991.png)
+![image](https://user-images.githubusercontent.com/105695077/178035122-69d5cc82-f645-4343-8c9d-baf6397749c1.png)
+
 Calcular errores de las mediciones y comentar los resultados.
 
 # VIDEO
